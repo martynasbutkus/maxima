@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+}
+header ul{
+    list-style: none;
+    text-decoration: none;
+}
+header ul li {
+    display: inline-block;
+    padding: 10px;
+    
+}
+header img{
+    height: 50px;
+}
+header{
+    padding: 30px;
+    background-color: #F9FAF8;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    width: 600px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-color: #EAEBEA;
+}
+section{
+    padding: 30px;
+    background-color: #F9FAF8;
+    display: block;
+    justify-content: center;
+    width: 600px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-top: 40px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding-bottom: 40px;
+}
+#about{
+    height: 400px;
+    padding-bottom: 15px;
+}
+section h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+h3{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#product{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    padding-bottom: 5px;
+}
+#price{
+    text-align: center;
+    list-style: none;
+}
+h4{
+    text-align: center;
+    font-weight: 300;
+    font-size: 15px;
+}
+section ul li{
+    margin-left: 50px;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
